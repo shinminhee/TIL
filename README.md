@@ -56,6 +56,16 @@ today I learned...
    while Loop
    조건에 따라 코드를 반복하는 방법
 
-
-
+Terminal 
+- ls : list
+- mkdir : make directory 폴더 만들기
+- cd : change 폴더 바꾼다/들어간다
+- . 은 폴더 / cd .. 뒤로가기 cd . 현재폴더 / git add . 변경사항 모두 추가해주는 것
+- touch text 파일 만들때
+- check out 주소 상태를 바꿈
+- ^ 하나 이전상태로
+- HEAD 위치를 나타내줌
+- cd 최상위 폴더로 갈때
+- q 빠져나올때
+- .md mark down
 
