@@ -8,7 +8,7 @@ today I learned...
 --- 
 
 2020.12.23 
- #<Operator Basics>
+ #Operator Basics
    연산자 기초 이론
 
   - Arithmetic Operators
@@ -65,7 +65,7 @@ today I learned...
         Swift가 제공하지 않는 새로운 연산자를 직접 구현하는 방법
         
    
-#<Conditional Statements>
+#Conditional Statements
 조건문을 사용해서 조건에 따라 실행할 코드를 선택하는 방법에 대해 공부
 
    - if Statement
@@ -116,7 +116,70 @@ today I learned...
         
   -  guard Statement
         guard 문을 활용해서 Early Exit 패턴을 구현하는 방법에 대해 공부하고, 동일한 코드를 if 문과 guard 문으로 구현하고 차이점을 비교
-        
+        **let** b = 1
+
+        **func** add() {
+
+        **guard** a < b **else** {
+
+        **return** }
+
+        print(a + b)
+
+        }
+
+        add()
+
+        //트루일때 실행이 되고 폴스면 리턴이 된다._아무것도 뜨지 않음
+
+        **func** add1() {
+
+        **if** a > b {
+
+        print("return")
+
+        **return**
+
+        }
+
+        print(a + b)
+
+        }
+
+        add()
+
+        #Nil 
+
+        **var** c: Int? = **nil** // ? 는 optional 값이 없을수도 있다. 인트일거 같애 느낌.
+
+        c = 3
+
+        print(c) // optional(3)이 뜬다.
+
+        혹은
+
+        **if** **let** a = c {     // 이때 let a 는 nil의 값을 가져오지 못한다.
+
+        print(a)
+
+        } **else** {
+
+        print("nil")
+
+        } // 3으로 출력된다.
+
+        - 가드문으로 3을 출력하는 경우
+
+            **func** alpha() {
+
+            **guard** **let** a = c **else** { print("nil"); **return** }
+
+            print(a)
+
+            }
+
+            alpha()
+            
    - Value Binding Pattern
         switch 문에서 활용할 수 있는 Value Binding Pattern에 대해 
         
@@ -124,7 +187,7 @@ today I learned...
         직접 구현한 형식에 대해 패턴 매칭을 적용하는 방법
         
 
-#<Loop Statements>
+#Loop Statements
 반복문을 통해 코드를 반복해서 실행하는 방법에 대해 
 
    - for-in Loop
@@ -169,7 +232,7 @@ today I learned...
 
 ---
 
-#<About Terminal> 
+#About Terminal 
 - ls : list
 - mkdir : make directory 폴더 만들기
 - cd : change 폴더 바꾼다/들어간다
@@ -181,3 +244,65 @@ today I learned...
 - cd 최상위 폴더로 갈때
 - q 빠져나올때
 - .md mark down
+
+---
+
+#Break, Continue
+
+**for** index **in** 1...100 {
+
+print("start")
+
+**if** index < 5 {
+
+**continue**
+
+}
+
+**if** index > 10 {
+
+**break**
+
+}
+
+print("end")
+
+}
+
+#CONTINUE
+
+//다음 회차 반복으로 문장 전달
+
+//반복문에서만 사용 포인이나 와일
+
+**for** index **in** 1...10 {
+
+**if** index % 2 == 0 {
+
+**continue**
+
+}
+
+print(index)
+
+}
+
+//현재 반복을 종료하고 다음 반복을 사용한다
+
+**for** i **in** 1...10 {
+
+print("OUTER LOOP", i)
+
+**for** j **in** 1...10 {
+
+**if** j % 2 == 0 {
+
+**continue**
+
+}
+
+print("inner loop", j)
+
+}
+
+}
