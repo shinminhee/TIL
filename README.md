@@ -306,3 +306,94 @@ print("inner loop", j)
 }
 
 }
+
+#BREAK
+
+//반복문과 스위치 문에서 사용
+
+**let** num = 2
+
+**switch** num {
+
+**case** 1...10:
+
+print("begin block")
+
+**if** num % 2 != 0 {   //홀수인지 확인
+
+**break**      //스위치 문을 종료한 다음 제어를 이어지는 코드로 전달한다.
+
+}
+
+print("end block")
+
+**default**:
+
+**break**
+
+}
+
+print("done")
+
+**for** index **in** 1...10 {
+
+print(index)
+
+**if** index > 1 {
+
+**break**
+
+}
+
+}
+
+**for** i **in** 1...10 {
+
+print("OUTER LOOP", i)   //인접하지 않음
+
+**for** j **in** 1...10 {
+
+print("inner loop", j) //인접한 반복문
+
+**if** j > 1 {
+
+**break**   //인접한 반복문반 해당
+
+}
+
+}
+
+}
+
+//브레이크는 문자을 중지한다
+
+//문장이 중첩되어 있을떄 가장 인접한 문장을 중지한다
+
+---
+
+#LABELED STATEMENT
+
+//문장의 이름 붙이기
+
+//반복문 이프문 스위치문
+
+outer: **for** i **in** 1...3 {
+
+print("OUTER LOOP", i)
+
+**for** j **in** 1...3 {
+
+print("inner loop", j)
+
+**break** outer
+
+}
+
+}
+
+#TUPLE
+
+//괄호하고 나열하면 끝
+
+let date = ("<html>", 200, "OK", 12.34)
+
