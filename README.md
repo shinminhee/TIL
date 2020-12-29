@@ -400,7 +400,6 @@ print("inner loop", j)
 **튜플을 통해 두 개 이상의 값을 하나의 값으로 묶어서 처리하는 방법에 대해 공부합니다.**
 
 - 두 개 이상의 값을 저장하는 Compound Type인 튜플에 대해 공부합니다. 
-****
 
 //괄호하고 나열하면 끝
 
@@ -408,10 +407,27 @@ let date = ("<html>", 200, "OK", 12.34)
 
 - Named Tuples
 튜플 멤버에 이름을 붙여서 가독성을 높이는 방법에 대해 공부합니다.
-****
+
 - Tuple Decomposition
 튜플에 저장된 멤버를 개별 상수나 개별 변수에 저장하는 방법에 대해 공부합니다.
-****
+
 -Tuple Matching
 switch 문을 활용해서 튜플에 저장된 값을 매칭시키는 방법에 대해 공부합니다.
+
+---
+#**Optionals**
+
+**let** str: String = "Swift"
+
+**let** optionalStr: String? = **nil**
+
+**let** a: Int? = **nil**
+
+**let** b = a
+
+b
+
+//넌 옵셔널 타입은 항상 값을 가져야 한다
+
+//옵셔널 타입은 값을 가지지 않아도 된다 그때 물음표 붙여줘야한다
 
