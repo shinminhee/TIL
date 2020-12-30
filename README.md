@@ -431,3 +431,41 @@ b
 
 //옵셔널 타입은 값을 가지지 않아도 된다 그때 물음표 붙여줘야한다
 
+---
+
+#Array
+    -Accessing Elements
+
+    **let** fruits = ["Apple", "Banana", "Melon"]
+
+        //0        1        2
+
+    fruits[0]
+
+    //fruits[3]
+
+    fruits[2]
+
+    //범위를 전달할때
+
+    fruits[0...1]
+
+    //잘못된 인덱스와 잘못된 범위를 전달하면 오류남 주의하기
+
+    fruits[fruits.startIndex] // == fruits[0] 같다
+
+    //fruits[fruits.endIndex] //엔드 인덱스는 마지막 인덱스 다음 즉 멜론 다음
+
+    fruits[fruits.index(before: fruits.endIndex)] //이렇게 마지막 요소에 접근해야 함
+
+    fruits.first //이때 배열이 비어 있으면 닐을 리턴한다
+
+    fruits.last
+
+    emptyArray.first
+
+    emptyArray.last //밑에서와 같이 서브 스크립트로 사용할때보다 이렇게 사용하면 안전함과 코드가 단순함
+
+    //서브 스크립트르 썼을때와는 어떤차이 첨이 있나? 밑에서 확인
+
+    //emptyArray[0] //배열이 비어있는 경우 오류
