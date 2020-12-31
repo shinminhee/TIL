@@ -395,41 +395,41 @@ print("inner loop", j)
 
 #TUPLE
 
-#**Tuples**
+    #**Tuples**
 
-**튜플을 통해 두 개 이상의 값을 하나의 값으로 묶어서 처리하는 방법에 대해 공부합니다.**
+    **튜플을 통해 두 개 이상의 값을 하나의 값으로 묶어서 처리하는 방법에 대해 공부합니다.**
 
-- 두 개 이상의 값을 저장하는 Compound Type인 튜플에 대해 공부합니다. 
+    - 두 개 이상의 값을 저장하는 Compound Type인 튜플에 대해 공부합니다. 
 
-//괄호하고 나열하면 끝
+    //괄호하고 나열하면 끝
 
-let date = ("<html>", 200, "OK", 12.34)
+    let date = ("<html>", 200, "OK", 12.34)
 
-- Named Tuples
-튜플 멤버에 이름을 붙여서 가독성을 높이는 방법에 대해 공부합니다.
+    - Named Tuples
+    튜플 멤버에 이름을 붙여서 가독성을 높이는 방법에 대해 공부합니다.
 
-- Tuple Decomposition
-튜플에 저장된 멤버를 개별 상수나 개별 변수에 저장하는 방법에 대해 공부합니다.
+    - Tuple Decomposition
+    튜플에 저장된 멤버를 개별 상수나 개별 변수에 저장하는 방법에 대해 공부합니다.
 
--Tuple Matching
-switch 문을 활용해서 튜플에 저장된 값을 매칭시키는 방법에 대해 공부합니다.
+    -Tuple Matching
+    switch 문을 활용해서 튜플에 저장된 값을 매칭시키는 방법에 대해 공부합니다.
 
 ---
 #**Optionals**
 
-**let** str: String = "Swift"
+    **let** str: String = "Swift"
 
-**let** optionalStr: String? = **nil**
+    **let** optionalStr: String? = **nil**
 
-**let** a: Int? = **nil**
+    **let** a: Int? = **nil**
 
-**let** b = a
+    **let** b = a
 
-b
+    b
 
-//넌 옵셔널 타입은 항상 값을 가져야 한다
+    //넌 옵셔널 타입은 항상 값을 가져야 한다
 
-//옵셔널 타입은 값을 가지지 않아도 된다 그때 물음표 붙여줘야한다
+    //옵셔널 타입은 값을 가지지 않아도 된다 그때 물음표 붙여줘야한다
 
 ---
 
@@ -469,3 +469,84 @@ b
     //서브 스크립트르 썼을때와는 어떤차이 첨이 있나? 밑에서 확인
 
     //emptyArray[0] //배열이 비어있는 경우 오류
+    
+    
+---
+
+#func 문제
+
+    -import Foundation
+
+    // 6도 이상이면 true, 4도나 5도는 false, 3도 이하일 경우 다시 true
+    //func weather(temperature: Int) -> Bool {
+    //    if temperature >= 6 {
+    //        return true
+    //    } else if temperature <= 3 {
+    //        return true
+    //    } else {
+    //        return false
+    //    }
+    //}
+    //
+    //print(weather(temperature: 5))
+
+    //--------------------------------------------
+
+
+    //func abc(a: Int, b: Int) -> Bool {
+    //    if a == 12 && b == 23 {
+    //        return true
+    //    } else { a == 12 && b == 34
+    //        return false
+    //    }
+    //}
+    //
+    //abc(a: 12, b: 34)
+    //print(abc(a: 12, b: 34))
+
+    // 1: 가나다 2: 가나라 -> False, 1: 마바사 2: 마바사 -> true
+
+    func compare(word: String, word2: String) -> Bool {
+        if word == word2 { // 워드가 워드2랑 같을 경우
+            return true
+        }
+        return false
+    }
+
+    compare(word: "가나다", word2: "가나라")
+    compare(word: "마바사", word2: "마바사")
+
+    ////--------------------------------------------
+
+
+    // 이름과 나이를 입력 받아 자신을 소개하는 글을 출력하는 함수
+    func greeting(name: String, age: Int) -> String {
+        let nameResult = "안녕하세요. \(name) 입니다."
+        let ageResult = " \(age) 살 입니다."
+        return nameResult + ageResult
+    }
+
+
+    // 정수를 하나 입력받아 2의 배수 여부를 반환하는 함수
+    func calculate(number: Int) -> Bool {
+        if number % 2 == 0, number != 0 {
+            return true
+        } else {
+            return false
+        }
+    }
+
+    // 정수를 두 개 입력 받아 곱한 결과를 반환하는 함수 (파라미터 하나의 기본 값은 10)
+    func multiply(num1: Int, num2: Int = 10) -> Int {
+        let result  = num1 * num2
+        return result
+    }
+
+    // 자연수 두 개를 입력받아 첫 번째 수를 두 번째 수만큼 제곱하여 반환하는 함수
+    func 제곱(num3: Int, num4: Int) -> Int {
+        var result = 1
+        for _ in 1…num4 {
+            result *= num3
+        }
+        return result
+    }
