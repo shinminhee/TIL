@@ -550,3 +550,36 @@ print("inner loop", j)
         }
         return result
     }
+
+---
+
+#CLOSURE
+
+    
+    let c = { print("Hello, Swift") }
+    c()
+
+    let c2 = { (str: String) -> String in
+        return "Hello, \(str)"
+    }
+
+    let result = c2("Closure")
+    print(result)
+    //클로저를 호출할떄 아규먼트 레이블 사용 안함
+
+
+    typealias SimpleStringClosure = (String) -> String
+
+    func perform(closure: SimpleStringClosure) {
+        print(closure("iOS"))
+    }
+
+    perform(closure: c2)
+
+    perform(closure: { (str: String) -> String in
+        return "Hi, \(str)"
+    })
+
+
+
+
