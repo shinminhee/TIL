@@ -580,6 +580,40 @@ print("inner loop", j)
         return "Hi, \(str)"
     })
 
+---
 
+#Enumerations
+
+    //케이스 이름은 로우 카멜 케이스로
+    //여러가지 하고싶으면 콤마로 나열
+
+    enum Aligment {
+        case left
+        case right
+        case canter
+    }
+
+    Aligment.canter
+
+    var textAligment = Aligment.canter
+
+    //열거형은 독립적인 값이다
+
+    textAligment = .left //열거형 이름은 생략해도 되지만 점은 빼면 안된다
+
+    //센터가 저장됐는지 확인할떄
+    if textAligment == .canter {
+        print("center")
+
+        
+    }
+    switch textAligment {
+    case .left:
+        print("left")
+    case .right:
+        print("right")
+    case .canter:
+        print("center")
+    }
 
 
