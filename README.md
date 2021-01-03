@@ -616,4 +616,19 @@ print("inner loop", j)
         print("center")
     }
 
+---
+#Strings and Characters
+
+    - let s = "String"
+
+
+    let c: Character = "C"
+
+    let emptyChar: Character = " " //캐릭터에서는 공백 추가해야 오류안 뜸
+
+    let emptyString = "" //큰따옴표 사이에 공간이 있으면 빈 문자 아니고 공간이 없어야 빈 문자이다
+    emptyString.count
+
+    let emptyString2 = String() //문자열로 빈문자 생성가능
+
 
