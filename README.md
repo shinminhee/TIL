@@ -632,3 +632,48 @@ print("inner loop", j)
     let emptyString2 = String() //문자열로 빈문자 생성가능
 
 
+#Structure and Class
+
+    //객체-클래스 //값-구조체
+
+    struct Person {
+        var name: String
+        var age: Int
+        
+        func speak() {
+            print("Hello")
+        }
+    }
+
+    let p = Person(name: "Steve", age: 50)
+
+    let name = "Paul"
+    name
+
+    p.name
+    p.age
+
+    p.speak()
+
+    //함수와 메소드를 구분하는 방법을 함수는 이름만 메소드는 인스턴스를 호출해야한다
+
+    ---
+
+    class Person {
+        var name = "John Doe"
+        var age = 0
+        
+        func speak() {
+            print("Hello")
+        }
+    }
+
+    let p = Person()
+
+    p.age
+    p.name
+    p.speak()
+
+
+    //새로운 형식을 만들때 사용한다
+
