@@ -677,3 +677,28 @@ print("inner loop", j)
 
     //새로운 형식을 만들때 사용한다
 
+---
+
+#Instance Method
+
+    //메소드는 특정형식에 속한 함수
+    //클래스 열거형 구조체?
+    //함소와 차이점은 함소는 함수이름으로 메소드는 인스턴스 이름으로
+
+    class Sample {
+        var date = 0
+        static var shareDate = 123
+        
+        func dosomething() {
+            print(date)
+            Sample.shareDate //인스턴스 멤버에서 타입멤버로 접근할때는 이렇게 형식이름을 통해 접근해야한다
+        }
+        
+        func call() {
+            dosomething()
+        }
+    }
+
+    let a = Sample()
+    a.date
+    a.dosomething() //메소드는 반드시 인스턴스 이름으로 호출해야한다
