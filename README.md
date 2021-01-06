@@ -233,163 +233,163 @@ today I learned...
 ---
 
 #About Terminal 
-- ls : list
-- mkdir : make directory 폴더 만들기
-- cd : change 폴더 바꾼다/들어간다
-- . 은 폴더 / cd .. 뒤로가기 cd . 현재폴더 / git add . 변경사항 모두 추가해주는 것
-- touch text 파일 만들때
-- check out 주소 상태를 바꿈
-- ^ 하나 이전상태로
-- HEAD 위치를 나타내줌
-- cd 최상위 폴더로 갈때
-- q 빠져나올때
-- .md mark down
+    - ls : list
+    - mkdir : make directory 폴더 만들기
+    - cd : change 폴더 바꾼다/들어간다
+    - . 은 폴더 / cd .. 뒤로가기 cd . 현재폴더 / git add . 변경사항 모두 추가해주는 것
+    - touch text 파일 만들때
+    - check out 주소 상태를 바꿈
+    - ^ 하나 이전상태로
+    - HEAD 위치를 나타내줌
+    - cd 최상위 폴더로 갈때
+    - q 빠져나올때
+    - .md mark down
 
 ---
 
 #Break, Continue
 
-**for** index **in** 1...100 {
+    **for** index **in** 1...100 {
 
-print("start")
+    print("start")
 
-**if** index < 5 {
+    **if** index < 5 {
 
-**continue**
+    **continue**
 
-}
+    }
 
-**if** index > 10 {
+    **if** index > 10 {
 
-**break**
+    **break**
 
-}
+    }
 
-print("end")
+    print("end")
 
-}
+    }
 
 #CONTINUE
 
-//다음 회차 반복으로 문장 전달
+    //다음 회차 반복으로 문장 전달
 
-//반복문에서만 사용 포인이나 와일
+    //반복문에서만 사용 포인이나 와일
 
-**for** index **in** 1...10 {
+    **for** index **in** 1...10 {
 
-**if** index % 2 == 0 {
+    **if** index % 2 == 0 {
 
-**continue**
+    **continue**
 
-}
+    }
 
-print(index)
+    print(index)
 
-}
+    }
 
-//현재 반복을 종료하고 다음 반복을 사용한다
+    //현재 반복을 종료하고 다음 반복을 사용한다
 
-**for** i **in** 1...10 {
+    **for** i **in** 1...10 {
 
-print("OUTER LOOP", i)
+    print("OUTER LOOP", i)
 
-**for** j **in** 1...10 {
+    **for** j **in** 1...10 {
 
-**if** j % 2 == 0 {
+    **if** j % 2 == 0 {
 
-**continue**
+    **continue**
 
-}
+    }
 
-print("inner loop", j)
+    print("inner loop", j)
 
-}
+    }
 
-}
+    }
 
 #BREAK
 
-//반복문과 스위치 문에서 사용
+    //반복문과 스위치 문에서 사용
 
-**let** num = 2
+    **let** num = 2
 
-**switch** num {
+    **switch** num {
 
-**case** 1...10:
+    **case** 1...10:
 
-print("begin block")
+    print("begin block")
 
-**if** num % 2 != 0 {   //홀수인지 확인
+    **if** num % 2 != 0 {   //홀수인지 확인
 
-**break**      //스위치 문을 종료한 다음 제어를 이어지는 코드로 전달한다.
+    **break**      //스위치 문을 종료한 다음 제어를 이어지는 코드로 전달한다.
 
-}
+    }
 
-print("end block")
+    print("end block")
 
-**default**:
+    **default**:
 
-**break**
+    **break**
 
-}
+    }
 
-print("done")
+    print("done")
 
-**for** index **in** 1...10 {
+    **for** index **in** 1...10 {
 
-print(index)
+    print(index)
 
-**if** index > 1 {
+    **if** index > 1 {
 
-**break**
+    **break**
 
-}
+    }
 
-}
+    }
 
-**for** i **in** 1...10 {
+    **for** i **in** 1...10 {
 
-print("OUTER LOOP", i)   //인접하지 않음
+    print("OUTER LOOP", i)   //인접하지 않음
 
-**for** j **in** 1...10 {
+    **for** j **in** 1...10 {
 
-print("inner loop", j) //인접한 반복문
+    print("inner loop", j) //인접한 반복문
 
-**if** j > 1 {
+    **if** j > 1 {
 
-**break**   //인접한 반복문반 해당
+    **break**   //인접한 반복문반 해당
 
-}
+    }
 
-}
+    }
 
-}
+    }
 
-//브레이크는 문자를 중지한다
+    //브레이크는 문자를 중지한다
 
-//문장이 중첩되어 있을떄 가장 인접한 문장을 중지한다
+    //문장이 중첩되어 있을떄 가장 인접한 문장을 중지한다
 
 ---
 
 #LABELED STATEMENT
 
-//문장의 이름 붙이기
+    //문장의 이름 붙이기
 
-//반복문 이프문 스위치문
+    //반복문 이프문 스위치문
 
-outer: **for** i **in** 1...3 {
+    outer: **for** i **in** 1...3 {
 
-print("OUTER LOOP", i)
+    print("OUTER LOOP", i)
 
-**for** j **in** 1...3 {
+    **for** j **in** 1...3 {
 
-print("inner loop", j)
+    print("inner loop", j)
 
-**break** outer
+    **break** outer
 
 
 
-}
+    }
 
 ---
 
@@ -702,3 +702,15 @@ print("inner loop", j)
     let a = Sample()
     a.date
     a.dosomething() //메소드는 반드시 인스턴스 이름으로 호출해야한다
+
+---
+
+#Inheritance
+
+    class Rectangle: Figure { // 위에 클래스 상속 받음
+        var width = 0.0       // final을 붙이면 상속이 금지된다
+        var height = 0.0      // 이것이 다른 클래스 상속은 가능, 다른 클래스가 이것 상속 금지
+    }
+
+    class Square: Rectangle { // 상속 받음
+    }
