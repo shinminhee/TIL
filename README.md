@@ -714,3 +714,23 @@ today I learned...
 
     class Square: Rectangle { // 상속 받음
     }
+
+--- 
+
+#extention
+
+    struct Size {
+        var width = 0.0
+        var height = 0.0
+    }
+
+    extension Size {
+        var area: Double {
+            return width * height
+        }
+    }
+
+    let s = Size()
+    s.area // 익스텐션으로 추가했지만 다른 것과 차이가 없다
+    s.height
+    s.width
