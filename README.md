@@ -734,3 +734,8 @@ today I learned...
     s.area // 익스텐션으로 추가했지만 다른 것과 차이가 없다
     s.height
     s.width
+    
+    ---
+    
+2021.01.08
+    HelloXcode / HelloWorld / Hello Interface Builder / Outlet And Action / Delegate Pattern
