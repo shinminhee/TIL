@@ -739,3 +739,12 @@ today I learned...
     
 2021.01.08
     HelloXcode / HelloWorld / Hello Interface Builder / Outlet And Action / Delegate Pattern
+    
+    ---
+    
+2021.01.09
+    View & Window / Overview / UIView /  UIControl & Target-Action / Button - Text Button / Image Button 
+
+
+
+
