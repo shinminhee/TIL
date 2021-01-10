@@ -232,6 +232,7 @@ today I learned...
 
 ---
 
+2020.12.24
 #About Terminal 
     - ls : list
     - mkdir : make directory 폴더 만들기
@@ -247,6 +248,7 @@ today I learned...
 
 ---
 
+2020.12.25
 #Break, Continue
 
     **for** index **in** 1...100 {
@@ -371,6 +373,7 @@ today I learned...
 
 ---
 
+2020.12.26
 #LABELED STATEMENT
 
     //문장의 이름 붙이기
@@ -393,6 +396,7 @@ today I learned...
 
 ---
 
+2020.12.27
 #TUPLE
 
     #**Tuples**
@@ -415,6 +419,8 @@ today I learned...
     switch 문을 활용해서 튜플에 저장된 값을 매칭시키는 방법에 대해 공부합니다.
 
 ---
+
+2020.12.28
 #**Optionals**
 
     **let** str: String = "Swift"
@@ -432,7 +438,7 @@ today I learned...
     //옵셔널 타입은 값을 가지지 않아도 된다 그때 물음표 붙여줘야한다
 
 ---
-
+2020.12.29
 #Array
     -Accessing Elements
 
@@ -473,6 +479,7 @@ today I learned...
     
 ---
 
+2020.12.30
 #func 문제
 
     -import Foundation
@@ -553,6 +560,7 @@ today I learned...
 
 ---
 
+2020.12.31
 #CLOSURE
 
     
@@ -581,7 +589,7 @@ today I learned...
     })
 
 ---
-
+2021.01.01
 #Enumerations
 
     //케이스 이름은 로우 카멜 케이스로
@@ -617,6 +625,8 @@ today I learned...
     }
 
 ---
+
+2021.01.02
 #Strings and Characters
 
     - let s = "String"
@@ -631,8 +641,10 @@ today I learned...
 
     let emptyString2 = String() //문자열로 빈문자 생성가능
 
+---
 
-#Structure and Class
+2021.01.03
+#Structure
 
     //객체-클래스 //값-구조체
 
@@ -658,10 +670,13 @@ today I learned...
     //함수와 메소드를 구분하는 방법을 함수는 이름만 메소드는 인스턴스를 호출해야한다
 
     ---
-
+    
+2021.01.04
+  #Class
+  
     class Person {
-        var name = "John Doe"
-        var age = 0
+    var name = "John Doe"
+    var age = 0
         
         func speak() {
             print("Hello")
@@ -679,6 +694,7 @@ today I learned...
 
 ---
 
+2021.01.05
 #Instance Method
 
     //메소드는 특정형식에 속한 함수
@@ -705,6 +721,7 @@ today I learned...
 
 ---
 
+2021.01.06
 #Inheritance
 
     class Rectangle: Figure { // 위에 클래스 상속 받음
@@ -717,6 +734,7 @@ today I learned...
 
 --- 
 
+2021.01.07
 #extention
 
     struct Size {
@@ -743,8 +761,12 @@ today I learned...
     ---
     
 2021.01.09
-    View & Window / Overview / UIView /  UIControl & Target-Action / Button - Text Button / Image Button 
+    View & Window -  Overview / UIView /  UIControl & Target-Action / Button - Text Button / Image Button 
 
+--- 
 
+2021.01.10
+
+View & Window - Activity Indicator View / Progress View
 
 
