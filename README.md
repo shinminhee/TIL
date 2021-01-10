@@ -767,6 +767,11 @@ today I learned...
 
 2021.01.10
 
-View & Window - Activity Indicator View / Progress View
+View & Window 
+    Activity Indicator View 
+    - 프로그램 완료 시점을 모를때 사용 ex) 부팅중
+    - 보통 멈춰있지 않고 애니메이션 사용
+    Progress View
+    - 프로그램 완료 시점을 알때 사용
 
 
