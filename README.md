@@ -773,5 +773,23 @@ View & Window
     - 보통 멈춰있지 않고 애니메이션 사용
     Progress View
     - 프로그램 완료 시점을 알때 사용
+    
+2021.01.11
 
+- Picker View
+    - Text Picker
+    - image picker
+- stack view
+    - axis 가로세로
+    - disitribution
+    - aligmnent
+        - 엑시스로 설정된 축과 직각을 이루는 축에서 뷰를 어떤 방식으로 정렬할지 결정한다
+        - 엑시스가 호리즌탈로 설정되어 있으면 수직정렬방식을 설정하고
+        - 버티클로 설정되어 있으면 수평정렬방식으로 설정한다
+    - spacing
+    - arrangedsubview
+        -어레인지드 서브뷰에 속한 뷰는 스텍뷰가 가진 배치 속성에 영향을 받지만 서브뷰에 속한 속성은 영향을 받지 않는다.
+        
+
+    
 
