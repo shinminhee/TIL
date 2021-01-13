@@ -790,6 +790,7 @@ View & Window
     - arrangedsubview
         -어레인지드 서브뷰에 속한 뷰는 스텍뷰가 가진 배치 속성에 영향을 받지만 서브뷰에 속한 속성은 영향을 받지 않는다.
         
+---
 
 2021.01.12
 
@@ -799,6 +800,23 @@ View & Window
     - action sheet
         - 아래쪽에서 창이 뜨고 캔슬 버튼은 따로 뜬다
         - 아이패드 설정시에는 기준이 되는 뷰나 프레임을 설정해야 한다
+        
+--- 
+
+2021.01.13
+
+# sender 예
+    if sender.tag == 1 {
+        print(present(secondVC, animated: true, completion: nil))
+    } else if sender.tag == 2 {
+        print(present(thridVC, animated: true, completion: nil))
+    } else if sender.tag == 3 {
+        print(present(fourthVC, animated: true, completion: nil))
+    }
+    
+- 버튼 눌러 페이지 넘기기
+- UIButton 사용
+
         
     
 
