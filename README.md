@@ -817,6 +817,21 @@ View & Window
 - 버튼 눌러 페이지 넘기기
 - UIButton 사용
 
+---
+
+2021.01.14
+
+#imageview
+
+override func viewDidLoad() {
+    super.viewDidLoad()
+    
+    imageView.animationImages = images 
+    
+    imageView.animationDuration = 1.0 // 시간 속성
+    imageView.animationRepeatCount = 3 // 반복설정
+    
+
         
     
 
