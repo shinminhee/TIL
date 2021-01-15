@@ -831,7 +831,17 @@ override func viewDidLoad() {
     imageView.animationDuration = 1.0 // 시간 속성
     imageView.animationRepeatCount = 3 // 반복설정
     
+---
 
+2021.01.15
+
+#imageview
+    - Image Basice
+    - Image Resizable & Vector Images
+    - Template Image
+    - Custom Drawing and Resizing
+    - Color Basics
+    - Pattern Color, Color Literal, Color Set
         
     
 
