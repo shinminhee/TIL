@@ -842,6 +842,19 @@ override func viewDidLoad() {
     - Custom Drawing and Resizing
     - Color Basics
     - Pattern Color, Color Literal, Color Set
+    
+---
+
+2021.01.16
+
+#Label 
+- Single-line Label 
+- Multi-line Label
+- Text Field
+- Text View
+- Text Input Traits
+- Software Keyboard
+
         
     
 
