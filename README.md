@@ -855,6 +855,23 @@ override func viewDidLoad() {
 - Text Input Traits
 - Software Keyboard
 
+---
+
+2021.01.17
+
+- Text Delegates
+- Input View & Input Accessory View
+- Password AutoFill
+- Date picker mode
+- CountDownTimer
+- date formatter
+- Custom Format
+- Relative Date Formatting
+- Symbols
+- Date String Parsing
+- ISO8601DateFormatter
+- DateIntervalFormatter
+
         
     
 
