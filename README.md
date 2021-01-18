@@ -848,12 +848,12 @@ override func viewDidLoad() {
 2021.01.16
 
 #Label 
-- Single-line Label 
-- Multi-line Label
-- Text Field
-- Text View
-- Text Input Traits
-- Software Keyboard
+    - Single-line Label 
+    - Multi-line Label
+    - Text Field
+    - Text View
+    - Text Input Traits
+    - Software Keyboard
 
 ---
 
@@ -872,6 +872,21 @@ override func viewDidLoad() {
 - ISO8601DateFormatter
 - DateIntervalFormatter
 
+---
+
+2021.01.18
+
+#Table View
+    - Table View Overview
+    - Multi Section
+    - Separator
+    - Table View Cell
+    - Accessory View
+    - Self Sizing Cell
+    - Custom Cell
+    - Customizing Section
+    - Section Index Title
+    -Table Header View & Footer View
         
     
 
