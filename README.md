@@ -887,6 +887,18 @@ override func viewDidLoad() {
     - Customizing Section
     - Section Index Title
     -Table Header View & Footer View
+    
+---
+
+2021.01.19
+
+- Managing Selection
+- Edit Mode
+- Row Action & Swipe Action
+- Reordering Cells
+- Prefetching API
+- Table View Controller & Static Cells
+
         
     
 
