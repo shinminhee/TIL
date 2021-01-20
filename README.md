@@ -899,6 +899,27 @@ override func viewDidLoad() {
 - Prefetching API
 - Table View Controller & Static Cells
 
+---
+
+2021.01.20
+
+- tableView
+- alert
+- Cell
+- 중국집 과제
+    let menu = UILabel()
+    let totalprice = UILabel()
+
+    let tableView = UITableView()
+    var price = ["6000원", "8000원", "9000원"]
+    let food = ["짜장면", "짬뽕", "볶음밥"]
+    let button1 = UIButton()
+    let button2 = UIButton()
+
+    let alert = UIAlertController(title: "내 지갑", message: "얼마를 갖고 있나요?", preferredStyle: .alert)
+    let action = UIAlertAction(title: "확인", style: .cancel, handler: nil)
+
+
         
     
 
