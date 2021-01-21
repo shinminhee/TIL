@@ -918,7 +918,19 @@ override func viewDidLoad() {
 
     let alert = UIAlertController(title: "내 지갑", message: "얼마를 갖고 있나요?", preferredStyle: .alert)
     let action = UIAlertAction(title: "확인", style: .cancel, handler: nil)
+    
+    ---
+    
+    2021.01.21
 
+#Collection View
+
+- Collection View Overview
+- Flow Layout
+- Collection View Cell
+- Supplementary View
+- Managing the Selection
+- Edit Rows and Sections
 
         
     
