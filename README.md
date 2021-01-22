@@ -932,6 +932,16 @@ override func viewDidLoad() {
 - Managing the Selection
 - Edit Rows and Sections
 
+--- 
+
+2021.01.22
+
+#Collection View
+
+Edit Rows and Sections
+Reordering Items (Interactive Movement)
+Cell Prefetching & Data Prefetching
+
         
     
 
