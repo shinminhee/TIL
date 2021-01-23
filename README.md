@@ -942,6 +942,19 @@ Edit Rows and Sections
 Reordering Items (Interactive Movement)
 Cell Prefetching & Data Prefetching
 
+---
+
+2021.01.23
+
+#Animation
+
+- UIView Animation
+- Spring Animation & Keyframe Animation
+- Property Animator
+- Motion Effect
+- View Transition
+
+
         
     
 
