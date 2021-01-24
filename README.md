@@ -954,6 +954,17 @@ Cell Prefetching & Data Prefetching
 - Motion Effect
 - View Transition
 
+---
+
+2021.01.24
+
+#Animation
+
+- View Controller Presentation 
+- Custom Presentation
+- Custom Transition
+- Interactive Transition 
+
 
         
     
