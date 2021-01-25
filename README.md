@@ -965,6 +965,20 @@ Cell Prefetching & Data Prefetching
 - Custom Transition
 - Interactive Transition 
 
+--- 
+
+2021.01.25
+
+#Auto Layout
+
+- Auto Layout Overview  
+- Frame-based Layout & Autoresizing Mask 
+- Auto Layout Interface Builder Technique  
+- Constraint #1  
+- Layout Margins & Layout Guides 
+- Constraints with Code
+
+
 
         
     
