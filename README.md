@@ -978,6 +978,20 @@ Cell Prefetching & Data Prefetching
 - Layout Margins & Layout Guides 
 - Constraints with Code
 
+---
+
+2021.01.26
+
+#Auto Layout
+
+- Debugging Auto Layout
+
+#Auto Layout
+ 
+- Custom Presentation 
+- Custom Transition
+
+
 
 
         
