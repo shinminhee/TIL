@@ -992,6 +992,18 @@ Cell Prefetching & Data Prefetching
 - Custom Transition
 
 
+--- 
+
+2021.01.27
+
+#도미노앱 과제
+- TableView
+- tableviewCell
+- delegate
+- tabBar
+- navigationController
+
+
 
 
         
