@@ -1003,6 +1003,15 @@ Cell Prefetching & Data Prefetching
 - tabBar
 - navigationController
 
+---
+2021.01.28
+
+#도미노앱 과제2
+ - tableViewCell
+ - NSLayoutConstraint
+ - tableView.delegate = self 중요 중요
+
+
 
 
 
