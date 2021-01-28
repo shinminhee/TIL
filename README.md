@@ -1011,6 +1011,16 @@ Cell Prefetching & Data Prefetching
  - NSLayoutConstraint
  - tableView.delegate = self 중요 중요
 
+---
+
+2021.01.29
+
+- View Controller Overview
+- View Management
+- View Controller Life Cycle
+- Orientation and Rotation
+- Container View Controller
+
 
 
 
