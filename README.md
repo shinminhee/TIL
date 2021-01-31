@@ -1031,6 +1031,14 @@ Cell Prefetching & Data Prefetching
 - Navigation Controller with Toolbar 
 - Tab Bar Controller 
 
+---
+
+2021.01.31
+
+- Split View Controller
+- Customizing Split View Controller
+- Storyboard and Storyboard Reference
+- Adaptive Segue
 
 
 
