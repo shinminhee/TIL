@@ -1041,6 +1041,14 @@ Cell Prefetching & Data Prefetching
 - Adaptive Segue
 
 
+---
+
+2021.02.01
+
+- 도미노 앱 수정
+- Custom Segue
+- Status Bar and Home Indicator
+
 
 
         
