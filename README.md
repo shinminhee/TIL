@@ -1058,7 +1058,15 @@ Cell Prefetching & Data Prefetching
     - alert
     - tabBatButton
 
+---
 
+2021.02.03
+
+- 중국집 앱
+    - alert
+    - table view
+    - stepper
+    - button
 
         
     
