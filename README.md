@@ -1049,6 +1049,15 @@ Cell Prefetching & Data Prefetching
 - Custom Segue
 - Status Bar and Home Indicator
 
+--- 
+
+2021.02.02
+
+- 도미노 앱
+    - delegate
+    - alert
+    - tabBatButton
+
 
 
         
