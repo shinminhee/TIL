@@ -1068,6 +1068,13 @@ Cell Prefetching & Data Prefetching
     - stepper
     - button
 
+---
+
+2021.02.04
+
+- 중국집 앱
+ - switch문
+ - delegate
         
     
 
