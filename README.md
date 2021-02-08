@@ -1091,6 +1091,14 @@ Cell Prefetching & Data Prefetching
 - Custom Notification Sound and Attachments 
 - Actionable Notification
 
+---
+2021.02.08
+
+#로그인앱
+    - 애니메이션
+    - 노티피케이션
+    - 텍스트필드
+
 
 
 
