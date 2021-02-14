@@ -1134,6 +1134,13 @@ Cell Prefetching & Data Prefetching
  - 네비게이션
  - 레이블
  
+ ---
+ 2021.02.14
+ 
+ #애니메이션 로그인앱4
+    - 레이블 위치 애니메이션
+    - placeholder
+ 
 
 
 
