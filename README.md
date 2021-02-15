@@ -1140,6 +1140,15 @@ Cell Prefetching & Data Prefetching
  #애니메이션 로그인앱4
     - 레이블 위치 애니메이션
     - placeholder
+    
+---
+2021.02.15
+
+#로그인앱4
+- 회원가입 제한
+
+#애니메이션 로그인앱5
+
  
 
 
