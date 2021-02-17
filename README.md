@@ -1155,6 +1155,14 @@ Cell Prefetching & Data Prefetching
 #드림플러스 스터디
 - 애니메이션 로그인앱
 
+---
+2021.02.17
+#Gesture Recognizers
+
+- Gesture Recognizers Overview
+- Tap Gesture 
+- Pinch Gesture
+
  
 
 
