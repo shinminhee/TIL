@@ -1163,6 +1163,11 @@ Cell Prefetching & Data Prefetching
 - Tap Gesture 
 - Pinch Gesture
 
+---
+2021.02.18
+#애니메이션 로그인앱5
+- 인디케이터
+- 레이블이동
  
 
 
