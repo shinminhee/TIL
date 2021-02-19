@@ -1168,6 +1168,13 @@ Cell Prefetching & Data Prefetching
 #애니메이션 로그인앱5
 - 인디케이터
 - 레이블이동
+
+---
+2021.02.19
+#중국집앱 1
+-오토레이아웃
+-alert
+
  
 
 
