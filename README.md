@@ -1175,6 +1175,12 @@ Cell Prefetching & Data Prefetching
 -오토레이아웃
 -alert
 
+---
+2021.02.20
+#중국집앱
+- if문
+- switch
+
  
 
 
