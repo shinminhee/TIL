@@ -1181,6 +1181,13 @@ Cell Prefetching & Data Prefetching
 - if문
 - switch
 
+---
+2021.02.21
+#중국집앱3
+- button
+- alert
+- 초기화
+
  
 
 
