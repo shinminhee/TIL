@@ -5,7 +5,7 @@ today I learned...
 
 2020.12.22 - Git
 
---- 
+---
 
 2020.12.23 
  #Operator Basics
@@ -13,7 +13,7 @@ today I learned...
 
   - Arithmetic Operators
         사칙연산과 나머지 연산에 사용하는 산술 연산자
-        
+      
    - Overflow Operators
         값오버플로우가 무엇인지, 그리고 오버플로우 연산자를 사용해서 오버플로우를 허용할 때 값이 어떻게 변경되는지
         
@@ -64,7 +64,7 @@ today I learned...
    - Custom Operators
         Swift가 제공하지 않는 새로운 연산자를 직접 구현하는 방법
         
-   
+
 #Conditional Statements
 조건문을 사용해서 조건에 따라 실행할 코드를 선택하는 방법에 대해 공부
 
@@ -179,7 +179,7 @@ today I learned...
             }
 
             alpha()
-            
+        
    - Value Binding Pattern
         switch 문에서 활용할 수 있는 Value Binding Pattern에 대해 
         
@@ -252,123 +252,123 @@ today I learned...
 #Break, Continue
 
     **for** index **in** 1...100 {
-
+    
     print("start")
-
+    
     **if** index < 5 {
-
+    
     **continue**
-
+    
     }
-
+    
     **if** index > 10 {
-
+    
     **break**
-
+    
     }
-
+    
     print("end")
-
+    
     }
 
 #CONTINUE
 
     //다음 회차 반복으로 문장 전달
-
+    
     //반복문에서만 사용 포인이나 와일
-
+    
     **for** index **in** 1...10 {
-
+    
     **if** index % 2 == 0 {
-
+    
     **continue**
-
+    
     }
-
+    
     print(index)
-
+    
     }
-
+    
     //현재 반복을 종료하고 다음 반복을 사용한다
-
+    
     **for** i **in** 1...10 {
-
+    
     print("OUTER LOOP", i)
-
+    
     **for** j **in** 1...10 {
-
+    
     **if** j % 2 == 0 {
-
+    
     **continue**
-
+    
     }
-
+    
     print("inner loop", j)
-
+    
     }
-
+    
     }
 
 #BREAK
 
     //반복문과 스위치 문에서 사용
-
+    
     **let** num = 2
-
+    
     **switch** num {
-
+    
     **case** 1...10:
-
+    
     print("begin block")
-
+    
     **if** num % 2 != 0 {   //홀수인지 확인
-
+    
     **break**      //스위치 문을 종료한 다음 제어를 이어지는 코드로 전달한다.
-
+    
     }
-
+    
     print("end block")
-
+    
     **default**:
-
+    
     **break**
-
+    
     }
-
+    
     print("done")
-
+    
     **for** index **in** 1...10 {
-
+    
     print(index)
-
+    
     **if** index > 1 {
-
+    
     **break**
-
+    
     }
-
+    
     }
-
+    
     **for** i **in** 1...10 {
-
+    
     print("OUTER LOOP", i)   //인접하지 않음
-
+    
     **for** j **in** 1...10 {
-
+    
     print("inner loop", j) //인접한 반복문
-
+    
     **if** j > 1 {
-
+    
     **break**   //인접한 반복문반 해당
-
+    
     }
-
+    
     }
-
+    
     }
-
+    
     //브레이크는 문자를 중지한다
-
+    
     //문장이 중첩되어 있을떄 가장 인접한 문장을 중지한다
 
 ---
@@ -377,17 +377,17 @@ today I learned...
 #LABELED STATEMENT
 
     //문장의 이름 붙이기
-
+    
     //반복문 이프문 스위치문
-
+    
     outer: **for** i **in** 1...3 {
-
+    
     print("OUTER LOOP", i)
-
+    
     **for** j **in** 1...3 {
-
+    
     print("inner loop", j)
-
+    
     **break** outer
 
 
@@ -400,21 +400,21 @@ today I learned...
 #TUPLE
 
     #**Tuples**
-
+    
     **튜플을 통해 두 개 이상의 값을 하나의 값으로 묶어서 처리하는 방법에 대해 공부합니다.**
-
+    
     - 두 개 이상의 값을 저장하는 Compound Type인 튜플에 대해 공부합니다. 
-
+    
     //괄호하고 나열하면 끝
-
+    
     let date = ("<html>", 200, "OK", 12.34)
-
+    
     - Named Tuples
     튜플 멤버에 이름을 붙여서 가독성을 높이는 방법에 대해 공부합니다.
-
+    
     - Tuple Decomposition
     튜플에 저장된 멤버를 개별 상수나 개별 변수에 저장하는 방법에 대해 공부합니다.
-
+    
     -Tuple Matching
     switch 문을 활용해서 튜플에 저장된 값을 매칭시키는 방법에 대해 공부합니다.
 
@@ -424,17 +424,17 @@ today I learned...
 #**Optionals**
 
     **let** str: String = "Swift"
-
+    
     **let** optionalStr: String? = **nil**
-
+    
     **let** a: Int? = **nil**
-
+    
     **let** b = a
-
+    
     b
-
+    
     //넌 옵셔널 타입은 항상 값을 가져야 한다
-
+    
     //옵셔널 타입은 값을 가지지 않아도 된다 그때 물음표 붙여줘야한다
 
 ---
@@ -443,47 +443,48 @@ today I learned...
     -Accessing Elements
 
     **let** fruits = ["Apple", "Banana", "Melon"]
-
+    
         //0        1        2
-
+    
     fruits[0]
-
+    
     //fruits[3]
-
+    
     fruits[2]
-
+    
     //범위를 전달할때
-
+    
     fruits[0...1]
-
+    
     //잘못된 인덱스와 잘못된 범위를 전달하면 오류남 주의하기
-
+    
     fruits[fruits.startIndex] // == fruits[0] 같다
-
+    
     //fruits[fruits.endIndex] //엔드 인덱스는 마지막 인덱스 다음 즉 멜론 다음
-
+    
     fruits[fruits.index(before: fruits.endIndex)] //이렇게 마지막 요소에 접근해야 함
-
+    
     fruits.first //이때 배열이 비어 있으면 닐을 리턴한다
-
+    
     fruits.last
-
+    
     emptyArray.first
-
+    
     emptyArray.last //밑에서와 같이 서브 스크립트로 사용할때보다 이렇게 사용하면 안전함과 코드가 단순함
-
+    
     //서브 스크립트르 썼을때와는 어떤차이 첨이 있나? 밑에서 확인
-
+    
     //emptyArray[0] //배열이 비어있는 경우 오류
-    
-    
+
+
+​    
 ---
 
 2020.12.30
 #func 문제
 
     -import Foundation
-
+    
     // 6도 이상이면 true, 4도나 5도는 false, 3도 이하일 경우 다시 true
     //func weather(temperature: Int) -> Bool {
     //    if temperature >= 6 {
@@ -496,7 +497,7 @@ today I learned...
     //}
     //
     //print(weather(temperature: 5))
-
+    
     //--------------------------------------------
 
 
@@ -510,19 +511,19 @@ today I learned...
     //
     //abc(a: 12, b: 34)
     //print(abc(a: 12, b: 34))
-
+    
     // 1: 가나다 2: 가나라 -> False, 1: 마바사 2: 마바사 -> true
-
+    
     func compare(word: String, word2: String) -> Bool {
         if word == word2 { // 워드가 워드2랑 같을 경우
             return true
         }
         return false
     }
-
+    
     compare(word: "가나다", word2: "가나라")
     compare(word: "마바사", word2: "마바사")
-
+    
     ////--------------------------------------------
 
 
@@ -542,13 +543,13 @@ today I learned...
             return false
         }
     }
-
+    
     // 정수를 두 개 입력 받아 곱한 결과를 반환하는 함수 (파라미터 하나의 기본 값은 10)
     func multiply(num1: Int, num2: Int = 10) -> Int {
         let result  = num1 * num2
         return result
     }
-
+    
     // 자연수 두 개를 입력받아 첫 번째 수를 두 번째 수만큼 제곱하여 반환하는 함수
     func 제곱(num3: Int, num4: Int) -> Int {
         var result = 1
@@ -563,27 +564,27 @@ today I learned...
 2020.12.31
 #CLOSURE
 
-    
+
     let c = { print("Hello, Swift") }
     c()
-
+    
     let c2 = { (str: String) -> String in
         return "Hello, \(str)"
     }
-
+    
     let result = c2("Closure")
     print(result)
     //클로저를 호출할떄 아규먼트 레이블 사용 안함
 
 
     typealias SimpleStringClosure = (String) -> String
-
+    
     func perform(closure: SimpleStringClosure) {
         print(closure("iOS"))
     }
-
+    
     perform(closure: c2)
-
+    
     perform(closure: { (str: String) -> String in
         return "Hi, \(str)"
     })
@@ -594,26 +595,27 @@ today I learned...
 
     //케이스 이름은 로우 카멜 케이스로
     //여러가지 하고싶으면 콤마로 나열
-
+    
     enum Aligment {
         case left
         case right
         case canter
     }
-
+    
     Aligment.canter
-
+    
     var textAligment = Aligment.canter
-
+    
     //열거형은 독립적인 값이다
-
+    
     textAligment = .left //열거형 이름은 생략해도 되지만 점은 빼면 안된다
-
+    
     //센터가 저장됐는지 확인할떄
     if textAligment == .canter {
         print("center")
 
-        
+
+​        
     }
     switch textAligment {
     case .left:
@@ -633,12 +635,12 @@ today I learned...
 
 
     let c: Character = "C"
-
+    
     let emptyChar: Character = " " //캐릭터에서는 공백 추가해야 오류안 뜸
-
+    
     let emptyString = "" //큰따옴표 사이에 공간이 있으면 빈 문자 아니고 공간이 없어야 빈 문자이다
     emptyString.count
-
+    
     let emptyString2 = String() //문자열로 빈문자 생성가능
 
 ---
@@ -647,7 +649,7 @@ today I learned...
 #Structure
 
     //객체-클래스 //값-구조체
-
+    
     struct Person {
         var name: String
         var age: Int
@@ -656,24 +658,24 @@ today I learned...
             print("Hello")
         }
     }
-
+    
     let p = Person(name: "Steve", age: 50)
-
+    
     let name = "Paul"
     name
-
+    
     p.name
     p.age
-
-    p.speak()
-
-    //함수와 메소드를 구분하는 방법을 함수는 이름만 메소드는 인스턴스를 호출해야한다
-
-    ---
     
+    p.speak()
+    
+    //함수와 메소드를 구분하는 방법을 함수는 이름만 메소드는 인스턴스를 호출해야한다
+    
+    ---
+
 2021.01.04
   #Class
-  
+
     class Person {
     var name = "John Doe"
     var age = 0
@@ -682,9 +684,9 @@ today I learned...
             print("Hello")
         }
     }
-
+    
     let p = Person()
-
+    
     p.age
     p.name
     p.speak()
@@ -700,7 +702,7 @@ today I learned...
     //메소드는 특정형식에 속한 함수
     //클래스 열거형 구조체?
     //함소와 차이점은 함소는 함수이름으로 메소드는 인스턴스 이름으로
-
+    
     class Sample {
         var date = 0
         static var shareDate = 123
@@ -714,7 +716,7 @@ today I learned...
             dosomething()
         }
     }
-
+    
     let a = Sample()
     a.date
     a.dosomething() //메소드는 반드시 인스턴스 이름으로 호출해야한다
@@ -728,11 +730,11 @@ today I learned...
         var width = 0.0       // final을 붙이면 상속이 금지된다
         var height = 0.0      // 이것이 다른 클래스 상속은 가능, 다른 클래스가 이것 상속 금지
     }
-
+    
     class Square: Rectangle { // 상속 받음
     }
 
---- 
+---
 
 2021.01.07
 #extention
@@ -741,29 +743,29 @@ today I learned...
         var width = 0.0
         var height = 0.0
     }
-
+    
     extension Size {
         var area: Double {
             return width * height
         }
     }
-
+    
     let s = Size()
     s.area // 익스텐션으로 추가했지만 다른 것과 차이가 없다
     s.height
     s.width
     
     ---
-    
+
 2021.01.08
     HelloXcode / HelloWorld / Hello Interface Builder / Outlet And Action / Delegate Pattern
     
     ---
-    
+
 2021.01.09
     View & Window -  Overview / UIView /  UIControl & Target-Action / Button - Text Button / Image Button 
 
---- 
+---
 
 2021.01.10
 
@@ -801,7 +803,7 @@ View & Window
         - 아래쪽에서 창이 뜨고 캔슬 버튼은 따로 뜬다
         - 아이패드 설정시에는 기준이 되는 뷰나 프레임을 설정해야 한다
         
---- 
+---
 
 2021.01.13
 
@@ -813,7 +815,7 @@ View & Window
     } else if sender.tag == 3 {
         print(present(fourthVC, animated: true, completion: nil))
     }
-    
+
 - 버튼 눌러 페이지 넘기기
 - UIButton 사용
 
@@ -830,7 +832,7 @@ override func viewDidLoad() {
     
     imageView.animationDuration = 1.0 // 시간 속성
     imageView.animationRepeatCount = 3 // 반복설정
-    
+
 ---
 
 2021.01.15
@@ -932,7 +934,7 @@ override func viewDidLoad() {
 - Managing the Selection
 - Edit Rows and Sections
 
---- 
+---
 
 2021.01.22
 
@@ -965,7 +967,7 @@ Cell Prefetching & Data Prefetching
 - Custom Transition
 - Interactive Transition 
 
---- 
+---
 
 2021.01.25
 
@@ -987,12 +989,12 @@ Cell Prefetching & Data Prefetching
 - Debugging Auto Layout
 
 #Auto Layout
- 
+
 - Custom Presentation 
 - Custom Transition
 
 
---- 
+---
 
 2021.01.27
 
@@ -1049,7 +1051,7 @@ Cell Prefetching & Data Prefetching
 - Custom Segue
 - Status Bar and Home Indicator
 
---- 
+---
 
 2021.02.02
 
@@ -1075,18 +1077,18 @@ Cell Prefetching & Data Prefetching
 - 중국집 앱
  - switch문
  - delegate
- 
- ---
+
+---
  2021.02.05
- 
+
  #Notification
  -  Notification Overview 
  - Notification Center and Notification 
  - Local Notification 
- 
- ---
+
+---
  2021.02.06
- 
+
 - Local Notification  
 - Custom Notification Sound and Attachments 
 - Actionable Notification
@@ -1112,31 +1114,31 @@ Cell Prefetching & Data Prefetching
 #로그인앱3
  - 글자수 제한 델리게이트
  - 아이디 델리게이트
- 
- ---
+
+---
  2021.02.11
- 
+
  #애니메이션 로그인앱
  - 애니메이션
  - 텍스트필드
- 
- ---
+
+---
  2021.02.12
- 
+
  #애니메이션 로그인앱2
  - 버튼
  - 델리게이션(글자 수 제한)
- 
- ---
+
+---
  2021.02.13
- 
+
  #애니메이션 로그인앱3
  - 네비게이션
  - 레이블
- 
- ---
+
+---
  2021.02.14
- 
+
  #애니메이션 로그인앱4
     - 레이블 위치 애니메이션
     - placeholder
@@ -1198,6 +1200,14 @@ Cell Prefetching & Data Prefetching
 
 #드림플러스 스터디
 - git
+
+---
+
+2021.02.24
+#드림플러스 스터디
+
+- 기념일 앱 회의
+
 
 
  
