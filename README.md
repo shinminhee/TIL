@@ -1174,6 +1174,7 @@ Cell Prefetching & Data Prefetching
 ---
 2021.02.19
 #중국집앱 1
+
 -오토레이아웃
 -alert
 
@@ -1207,6 +1208,18 @@ Cell Prefetching & Data Prefetching
 #드림플러스 스터디
 
 - 기념일 앱 회의
+
+---
+
+2021.02.25
+
+#기념일 앱
+
+- 앨범 접근
+
+- DatePicker
+
+  
 
 
 
