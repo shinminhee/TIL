@@ -1228,7 +1228,20 @@ Cell Prefetching & Data Prefetching
   - 뱃지
   - alert
 
-  
+---
+
+2021.02.27
+
+#기념일 앱4
+
+- [x]  버튼 이미지 추가
+- [ ]  설정창 테이블뷰
+- [x]  Navigation / TabBar 경계선
+- [x]  Navigation / TabBar 타이틀, 이미지 추가
+- [x]  배경화면 그라데이션
+- [x]  Alert
+- [x]  날짜 선택하면 Label에 날짜 입력
+- [x]  Button에 기본 이미지 추가
 
 
 
