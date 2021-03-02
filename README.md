@@ -616,15 +616,15 @@ today I learned...
 
 
 ​        
-    }
-    switch textAligment {
-    case .left:
-        print("left")
-    case .right:
-        print("right")
-    case .canter:
-        print("center")
-    }
+​    }
+​    switch textAligment {
+​    case .left:
+​        print("left")
+​    case .right:
+​        print("right")
+​    case .canter:
+​        print("center")
+​    }
 
 ---
 
@@ -1266,6 +1266,14 @@ Cell Prefetching & Data Prefetching
 - [x]  테이블뷰 셀 누르면 뷰 뜨는 것
 - [x]  앨범사진 추가
 - [x]  디데이 계산
+
+---
+
+2021.03.02
+
+#드림플러스 스터디
+
+- 기념일앱 질문하기
 
 
 
