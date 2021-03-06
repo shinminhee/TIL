@@ -1297,3 +1297,18 @@ Cell Prefetching & Data Prefetching
 
 - 앨범 이미지 따로 저장
 - 테이블뷰 데이터 메인뷰로 부르기
+
+---
+
+2021.03.06
+
+#Kxcoding
+
+- Network Overview
+- Displaying Web Contents
+- App Transport Security
+- JSON
+- URL Loading System
+
+
+
