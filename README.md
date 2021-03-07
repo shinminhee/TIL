@@ -1310,5 +1310,12 @@ Cell Prefetching & Data Prefetching
 - JSON
 - URL Loading System
 
+---
 
+2021.03.07
+
+#송스터디 network 강의 참고
+
+- Url / json
+- App Transport Security
 
