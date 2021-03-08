@@ -1319,3 +1319,13 @@ Cell Prefetching & Data Prefetching
 - Url / json
 - App Transport Security
 
+---
+
+2021.03.08
+
+#kxcoding
+
+- Cellular Connection
+- Adaptable Connectivity
+- Sending POST Requests 
+
