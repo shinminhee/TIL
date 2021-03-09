@@ -1329,3 +1329,11 @@ Cell Prefetching & Data Prefetching
 - Adaptable Connectivity
 - Sending POST Requests 
 
+---
+
+2021.03.09
+
+#드림플러스 스터디
+
+- 2차 프로젝트 회의
+- Network 
