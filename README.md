@@ -1337,3 +1337,11 @@ Cell Prefetching & Data Prefetching
 
 - 2차 프로젝트 회의
 - Network 
+
+---
+
+2021.03.10
+
+#노션 정리
+
+- 중국집, 도미노, 로그인, 컬러버튼 앱 코드 및 영상 저장
