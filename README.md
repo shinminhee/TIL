@@ -1430,3 +1430,15 @@ Cell Prefetching & Data Prefetching
 - 드레스뷰 버튼 변경
 
 #kxcoding 강의 보기
+
+---
+
+2021.03.20
+
+#스코페2021
+
+- 코딩테스트
+
+#Kxcoding
+
+- 타이머
