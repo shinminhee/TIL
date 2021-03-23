@@ -1462,3 +1462,12 @@ Cell Prefetching & Data Prefetching
 - GCD #3 - DispatchGroup, DispatchSemaphore
 - GCD #4 - GCD in Action
 
+---
+
+#Concurrency
+
+- Interoperation Dependencies
+
+#swift 문법
+
+- 교재
