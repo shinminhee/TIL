@@ -1493,5 +1493,5 @@ Cell Prefetching & Data Prefetching
 #개인앱
 
 - 맵뷰
-- 서치바
-- 뷰 4개짜기
+- 서치바(위치)
+- 뷰 4개짜기(그림자)
