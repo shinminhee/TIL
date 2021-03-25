@@ -1490,8 +1490,8 @@ Cell Prefetching & Data Prefetching
 
 2021.03.25
 
-#개인앱
+#개인앱(붕세권 따라만들기)
 
-- 맵뷰
-- 서치바(위치)
-- 뷰 4개짜기(그림자)
+- MapView
+- SearchBar(위치)
+- tabBar/Navigation
