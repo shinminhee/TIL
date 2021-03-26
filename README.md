@@ -1495,3 +1495,13 @@ Cell Prefetching & Data Prefetching
 - MapView
 - SearchBar(위치)
 - tabBar/Navigation
+
+---
+
+2021.03.26
+
+#개인앱2
+
+- collectionView
+- tableView
+- MapKit
