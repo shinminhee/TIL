@@ -1505,3 +1505,12 @@ Cell Prefetching & Data Prefetching
 - collectionView
 - tableView
 - MapKit
+
+---
+
+2021.03.27
+
+#개인앱3
+
+- 컬렉션뷰
+- 레이블
