@@ -1530,3 +1530,13 @@ Cell Prefetching & Data Prefetching
 #드림플러스 스터디
 
 #closure
+
+---
+
+2021.03.30
+
+#개인앱5
+
+- collectionView
+- tableView
+- navigationBar
