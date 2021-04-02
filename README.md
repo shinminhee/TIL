@@ -1557,3 +1557,12 @@ Cell Prefetching & Data Prefetching
 
 - MapKit
 - 구글 로그인 
+
+---
+
+2021.04.02
+
+#개인앱7
+
+- 네이버맵
+- 위치
