@@ -1566,3 +1566,12 @@ Cell Prefetching & Data Prefetching
 
 - 네이버맵
 - 위치
+
+---
+
+2021.04.03
+
+#개인앱8
+
+- settingView 수정
+- personalvView 수정
