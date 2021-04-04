@@ -1575,3 +1575,13 @@ Cell Prefetching & Data Prefetching
 
 - settingView 수정
 - personalvView 수정
+
+---
+
+2021.04.04
+
+#개인앱9
+
+- 가게 등록 테이블뷰
+- 가게 등록 컬렉션뷰
+
