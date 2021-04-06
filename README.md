@@ -1594,3 +1594,11 @@ Cell Prefetching & Data Prefetching
 - Q&A
 - 카카오 주소 맵 연결
 
+---
+
+2021.04.06
+
+#개인앱10
+
+- NSAttributedString
+- 테이블뷰에 컬렉션뷰
