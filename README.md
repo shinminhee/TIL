@@ -1602,3 +1602,16 @@ Cell Prefetching & Data Prefetching
 
 - NSAttributedString
 - 테이블뷰에 컬렉션뷰
+
+---
+
+2021.04.07
+
+#드림플러스 스터디
+
+- 스크롤뷰
+
+#개인앱
+
+- 로그인 후 닉네임 설정
+- 닉네임 중복 불가
