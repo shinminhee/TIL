@@ -1625,3 +1625,12 @@ Cell Prefetching & Data Prefetching
 - 화면 동시에 dismiss
 - 맵 위치 설정
 - 테이블뷰 겹치지 않게
+
+---
+
+2021.04.09
+
+#개인앱13
+
+- 테이블뷰 펼치기
+- PersonalVC 레이블 바꿔보기
