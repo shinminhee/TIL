@@ -1634,3 +1634,16 @@ Cell Prefetching & Data Prefetching
 
 - 테이블뷰 펼치기
 - PersonalVC 레이블 바꿔보기
+
+---
+
+2021.04.10
+
+#kxcoding
+
+- data
+
+#개인앱14
+
+- mapView 아이폰 연결
+
