@@ -1647,3 +1647,11 @@ Cell Prefetching & Data Prefetching
 
 - mapView 아이폰 연결
 
+---
+
+2021.04.11
+
+#노션
+
+- 테이블뷰 / 컬렉션뷰
+- 코코아팟
