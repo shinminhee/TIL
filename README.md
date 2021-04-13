@@ -1667,3 +1667,12 @@ Cell Prefetching & Data Prefetching
 #개인앱
 
 - 지도 현위치
+
+---
+
+2021.04.13
+
+#개인앱16
+
+- Delegate
+- 맵뷰 레이블
