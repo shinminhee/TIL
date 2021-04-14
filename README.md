@@ -1676,3 +1676,13 @@ Cell Prefetching & Data Prefetching
 
 - Delegate
 - 맵뷰 레이블
+
+---
+
+2021.04.14
+
+#개인앱17
+
+- 테이블뷰 데이터 전송
+  - 지도 위치, 이름, 버튼, 내용
+  - 컬렉션뷰
