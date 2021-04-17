@@ -1703,3 +1703,12 @@ Cell Prefetching & Data Prefetching
 #드림플러스 스터디
 
 - 데이터 저장
+
+---
+
+2021.04.17
+
+#LocationApp
+
+- 맵 레이블 테이블뷰로 올림
+- 테이블뷰 레이블 다른 뷰로 전달
