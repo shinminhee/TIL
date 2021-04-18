@@ -1712,3 +1712,12 @@ Cell Prefetching & Data Prefetching
 
 - 맵 레이블 테이블뷰로 올림
 - 테이블뷰 레이블 다른 뷰로 전달
+
+---
+
+2021.04.18
+
+#LocationApp
+
+- 데이터 전달
+- 맵 위치 저장
