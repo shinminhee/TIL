@@ -1724,3 +1724,12 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.04.19
+
+#드림프러스 스터디
+
+- delegate
+
+#LocationApp
+
+- 현재 위치 
