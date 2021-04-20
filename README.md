@@ -1733,3 +1733,11 @@ Cell Prefetching & Data Prefetching
 #LocationApp
 
 - 현재 위치 
+
+---
+
+#LocationApp
+
+- 텍스트필드 전달
+- 지도 위치 레이블
+- 컬렉션뷰
