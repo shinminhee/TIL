@@ -1747,3 +1747,11 @@ Cell Prefetching & Data Prefetching
 #드림플러스 스터디
 
 - Trouble Shooting
+
+---
+
+#LocationAPP
+
+- 맵 위치 설정
+- personnalVC 레이블 다시 설정
+- init
