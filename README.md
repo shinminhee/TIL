@@ -1755,3 +1755,15 @@ Cell Prefetching & Data Prefetching
 - 맵 위치 설정
 - personnalVC 레이블 다시 설정
 - init
+
+---
+
+#LocationAPP
+
+- view에 animation 뜨게하기
+
+  - personalView
+  - VC
+  - storeView
+
+  
