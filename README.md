@@ -1758,12 +1758,17 @@ Cell Prefetching & Data Prefetching
 
 ---
 
-#LocationAPP
+#LocationApp
 
 - view에 animation 뜨게하기
-
   - personalView
   - VC
   - storeView
 
-  
+---
+
+#LocationApp
+
+- 위치
+- 전송
+- init
