@@ -1772,3 +1772,9 @@ Cell Prefetching & Data Prefetching
 - 위치
 - 전송
 - init
+
+---
+
+#LocationApp
+
+- 로그인 데이타
