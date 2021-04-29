@@ -1799,3 +1799,10 @@ Cell Prefetching & Data Prefetching
 
 - 게임앱 회의
 - 게임 정하기
+
+---
+
+#게임앱
+
+- Label
+- View
