@@ -1806,3 +1806,10 @@ Cell Prefetching & Data Prefetching
 
 - Label
 - View
+
+---
+
+#게임앱
+
+- 싱글톤 
+- 컬렉션뷰
