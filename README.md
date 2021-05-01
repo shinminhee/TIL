@@ -1813,3 +1813,10 @@ Cell Prefetching & Data Prefetching
 
 - 싱글톤 
 - 컬렉션뷰
+
+---
+
+#게임햅
+
+- 초성퀴즈
+- 회전애니메이션
