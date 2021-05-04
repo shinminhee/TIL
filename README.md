@@ -63,7 +63,6 @@ today I learned...
         
    - Custom Operators
         Swift가 제공하지 않는 새로운 연산자를 직접 구현하는 방법
-        
 
 #Conditional Statements
 조건문을 사용해서 조건에 따라 실행할 코드를 선택하는 방법에 대해 공부
@@ -185,7 +184,6 @@ today I learned...
         
    - Expression Pattern
         직접 구현한 형식에 대해 패턴 매칭을 적용하는 방법
-        
 
 #Loop Statements
 반복문을 통해 코드를 반복해서 실행하는 방법에 대해 
@@ -791,7 +789,6 @@ View & Window
     - spacing
     - arrangedsubview
         -어레인지드 서브뷰에 속한 뷰는 스텍뷰가 가진 배치 속성에 영향을 받지만 서브뷰에 속한 속성은 영향을 받지 않는다.
-        
 ---
 
 2021.01.12
@@ -802,7 +799,6 @@ View & Window
     - action sheet
         - 아래쪽에서 창이 뜨고 캔슬 버튼은 따로 뜬다
         - 아이패드 설정시에는 기준이 되는 뷰나 프레임을 설정해야 한다
-        
 ---
 
 2021.01.13
@@ -1837,3 +1833,11 @@ Cell Prefetching & Data Prefetching
 #드림플러스 스터디
 
 - 정규표현식
+
+---
+
+#게임앱
+
+- 퀴즈초성뷰
+
+  
