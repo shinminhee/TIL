@@ -1840,4 +1840,9 @@ Cell Prefetching & Data Prefetching
 
 - 퀴즈초성뷰
 
-  
+---
+
+#미니게임
+
+- 이미지도안
+- 뷰 설정
