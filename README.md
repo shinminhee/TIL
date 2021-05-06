@@ -1846,3 +1846,10 @@ Cell Prefetching & Data Prefetching
 
 - 이미지도안
 - 뷰 설정
+
+---
+
+#미니게임
+
+- 단어추가
+- 이미지설정
