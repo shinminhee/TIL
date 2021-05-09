@@ -1870,3 +1870,9 @@ Cell Prefetching & Data Prefetching
 - 초성퀴즈 수정
 - 뷰 수정
 - 타이머 
+
+---
+
+#미니게임
+
+- 레이블 뷰 레이아웃 수정
