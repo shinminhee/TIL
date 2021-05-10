@@ -1876,3 +1876,11 @@ Cell Prefetching & Data Prefetching
 #미니게임
 
 - 레이블 뷰 레이아웃 수정
+
+---
+
+#드림플러스 스터디
+
+- font수정
+- Gif 파일
+- tableView
