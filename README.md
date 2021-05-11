@@ -1884,3 +1884,12 @@ Cell Prefetching & Data Prefetching
 - font수정
 - Gif 파일
 - tableView
+
+---
+
+#미니게임
+
+- 디자인수정
+- gif파일추가
+- font변경
+- View 수정
