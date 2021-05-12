@@ -1893,3 +1893,10 @@ Cell Prefetching & Data Prefetching
 - gif파일추가
 - font변경
 - View 수정
+
+---
+
+#미니게임
+
+- 레이블 위치 수정
+- 애니메이션
