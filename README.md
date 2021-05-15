@@ -1916,3 +1916,10 @@ Cell Prefetching & Data Prefetching
 
 - 키보드 내리기
 - 레이아웃 수정
+
+---
+
+#미니게임
+
+- 색 비교
+- 버튼 수정
