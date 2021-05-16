@@ -1923,3 +1923,10 @@ Cell Prefetching & Data Prefetching
 
 - 색 비교
 - 버튼 수정
+
+---
+
+#미니게임
+
+- 키보드 없애기
+- 텍스트 수정
