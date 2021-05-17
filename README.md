@@ -1930,3 +1930,10 @@ Cell Prefetching & Data Prefetching
 
 - 키보드 없애기
 - 텍스트 수정
+
+---
+
+#미니게임
+
+- 타이머종료
+- 스파이게임
