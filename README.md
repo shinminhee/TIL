@@ -1937,3 +1937,10 @@ Cell Prefetching & Data Prefetching
 
 - 타이머종료
 - 스파이게임
+
+---
+
+#미니게임
+
+- 코드정리
+- 키보드버튼
