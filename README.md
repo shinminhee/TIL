@@ -1950,3 +1950,9 @@ Cell Prefetching & Data Prefetching
 #미니게임
 
 - 앱제출
+
+---
+
+#스타벅스
+
+- 메인뷰
