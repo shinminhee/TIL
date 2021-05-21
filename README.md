@@ -1956,3 +1956,9 @@ Cell Prefetching & Data Prefetching
 #스타벅스
 
 - 메인뷰
+
+---
+
+#스타벅스
+
+- 테이블뷰
