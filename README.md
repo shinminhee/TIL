@@ -1962,3 +1962,10 @@ Cell Prefetching & Data Prefetching
 #스타벅스
 
 - 테이블뷰
+
+---
+
+#스타벅스
+
+- 탭바
+- 네비게이션
