@@ -1969,3 +1969,10 @@ Cell Prefetching & Data Prefetching
 
 - 탭바
 - 네비게이션
+
+---
+
+#스타벅스
+
+- 그라데이션
+- 테이블뷰셀 에러
