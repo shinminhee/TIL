@@ -1983,3 +1983,10 @@ Cell Prefetching & Data Prefetching
 
 - 스타벅스앱 계획짜기
 - 파이어베이스
+
+---
+
+#스타벅스
+
+- 테이블뷰
+- 컬렉션뷰
