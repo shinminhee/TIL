@@ -2004,3 +2004,4 @@ Cell Prefetching & Data Prefetching
 
 - 도면
 - 네이버뷰
+- 카카오맵
