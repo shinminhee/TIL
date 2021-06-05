@@ -2056,3 +2056,9 @@ Cell Prefetching & Data Prefetching
 
 - 테이블뷰 헤더에 버튼 or 셀에 뷰
 - 지도뷰
+
+---
+
+#오늘의집
+
+- 같은 뷰에서 뷰 넘어가게
