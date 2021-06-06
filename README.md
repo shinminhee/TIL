@@ -2062,3 +2062,10 @@ Cell Prefetching & Data Prefetching
 #오늘의집
 
 - 같은 뷰에서 뷰 넘어가게
+
+---
+
+#미니게임
+
+- 이미지 추가
+- 키워드 추가
