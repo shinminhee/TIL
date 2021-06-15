@@ -1732,6 +1732,8 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.04.20
+
 #LocationApp
 
 - 텍스트필드 전달
@@ -1740,11 +1742,15 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.04.21
+
 #드림플러스 스터디
 
 - Trouble Shooting
 
 ---
+
+2021.04.22
 
 #LocationAPP
 
@@ -1753,6 +1759,8 @@ Cell Prefetching & Data Prefetching
 - init
 
 ---
+
+2021.04.23
 
 #LocationApp
 
@@ -1763,6 +1771,8 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.04.24
+
 #LocationApp
 
 - 위치
@@ -1771,11 +1781,15 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.04.25
+
 #LocationApp
 
 - 로그인 데이타
 
 ---
+
+2021.04.26
 
 #드림플러스
 
@@ -1784,12 +1798,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.04.27
+
 #custom Tapbar
 
 - 컬렉션뷰
 - 뷰
 
 ---
+
+2021.04.28
 
 #드림플러스 스터디
 
@@ -1798,12 +1816,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.04.29
+
 #게임앱
 
 - Label
 - View
 
 ---
+
+2021.04.30
 
 #게임앱
 
@@ -1812,6 +1834,8 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.01
+
 #게임앱
 
 - 초성퀴즈
@@ -1819,12 +1843,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.02
+
 #게임앱
 
 - 넘기기
 - 주제별 단어
 
 ---
+
+2021.05.03
 
 #게임앱
 
@@ -1836,11 +1864,15 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.04
+
 #게임앱
 
 - 퀴즈초성뷰
 
 ---
+
+2021.05.05
 
 #미니게임
 
@@ -1849,12 +1881,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.06
+
 #미니게임
 
 - 단어추가
 - 이미지설정
 
 ---
+
+2021.05.07
 
 #미니게임
 
@@ -1865,6 +1901,8 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.08
+
 #미니게임
 
 - 초성퀴즈 수정
@@ -1873,11 +1911,15 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.09
+
 #미니게임
 
 - 레이블 뷰 레이아웃 수정
 
 ---
+
+2021.05.10
 
 #드림플러스 스터디
 
@@ -1886,6 +1928,8 @@ Cell Prefetching & Data Prefetching
 - tableView
 
 ---
+
+2021.05.11
 
 #미니게임
 
@@ -1896,12 +1940,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.12
+
 #미니게임
 
 - 레이블 위치 수정
 - 애니메이션
 
 ---
+
+2021.05.13
 
 #미니게임
 
@@ -1912,12 +1960,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.14
+
 #미니게임
 
 - 키보드 내리기
 - 레이아웃 수정
 
 ---
+
+2021.05.15
 
 #미니게임
 
@@ -1926,12 +1978,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.16
+
 #미니게임
 
 - 키보드 없애기
 - 텍스트 수정
 
 ---
+
+2021.05.17
 
 #미니게임
 
@@ -1940,6 +1996,8 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.18
+
 #미니게임
 
 - 코드정리
@@ -1947,11 +2005,15 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.19
+
 #미니게임
 
 - 앱제출
 
 ---
+
+2021.05.20
 
 #스타벅스
 
@@ -1959,11 +2021,15 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.21
+
 #스타벅스
 
 - 테이블뷰
 
 ---
+
+2021.05.22
 
 #스타벅스
 
@@ -1972,12 +2038,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.23
+
 #스타벅스
 
 - 그라데이션
 - 테이블뷰셀 에러
 
 ---
+
+2021.05.24
 
 #드림플러스 스터디
 
@@ -1986,6 +2056,8 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.25
+
 #스타벅스
 
 - 테이블뷰
@@ -1993,12 +2065,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.27
+
 #드림플러스 스터디
 
 - 스타벅스 Q&A
 - tableView Header
 
 ---
+
+2021.05.28
 
 #Bosegwon
 
@@ -2008,17 +2084,23 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.05.29
+
 #Bosegwon
 
 - 구글 로그인 
 
 ---
 
+2021.05.30
+
 #스위프트 프로그래밍
 
 - 데이터타입기본
 
 ---
+
+2021.05.31
 
 #드림플러스 스터디
 
@@ -2028,12 +2110,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.06.01
+
 #오늘의집
 
 - 상단바 
 - 네비게이션 이동
 
 ---
+
+2021.06.02
 
 #미니게임
 
@@ -2045,12 +2131,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.06.03
+
 #오늘의집
 
 - 테이블뷰
 - 텝바 버튼
 
 ---
+
+2021.06.04
 
 #오늘의집
 
@@ -2059,11 +2149,15 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.06.05
+
 #오늘의집
 
 - 같은 뷰에서 뷰 넘어가게
 
 ---
+
+2021.06.06
 
 #미니게임
 
@@ -2071,6 +2165,8 @@ Cell Prefetching & Data Prefetching
 - 키워드 추가
 
 ---
+
+2021.06.07
 
 #오늘의집
 
@@ -2083,11 +2179,15 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.06.08
+
 #오늘의집
 
 - 커스텀텝바 + 테이블뷰 + 컬렉션뷰
 
 ---
+
+2021.06.09
 
 #드림플러스 스터디
 
@@ -2096,6 +2196,8 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.06.10
+
 #오늘의집
 
 - interiorView
@@ -2103,6 +2205,8 @@ Cell Prefetching & Data Prefetching
   - customButton
 
 ---
+
+2021.06.11
 
 #오늘의집
 
@@ -2114,6 +2218,8 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.06.12
+
 #오늘의집
 
 - 버튼뷰
@@ -2121,11 +2227,15 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.06.13
+
 #오늘의집
 
 - 주소 -> 레이블 업데이트
 
 ---
+
+2021.06.14
 
 #드림플러스 스터디
 
@@ -2134,3 +2244,13 @@ Cell Prefetching & Data Prefetching
 #오늘의집
 
 - tableview
+
+---
+
+#드림플러스 스터디
+
+- 포트폴리오
+
+#마켓컬리
+
+- 회의
