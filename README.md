@@ -2247,6 +2247,8 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.06.15
+
 #드림플러스 스터디
 
 - 포트폴리오
@@ -2257,12 +2259,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.06.16
+
 #드림플러스 스터디
 
 - git 수정
 - 마켓컬리 뷰 
 
 ---
+
+2021.06.17
 
 #포트폴리오 배너
 
@@ -2271,6 +2277,8 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.06.18
+
 #gitHub
 
 - README.md
@@ -2278,11 +2286,15 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.06.19
+
 #스위프트 프로그래밍
 
 #README.md 정리
 
 ---
+
+2021.06.20
 
 #마켓컬리
 
@@ -2291,7 +2303,17 @@ Cell Prefetching & Data Prefetching
 
 ---
 
+2021.06.21
+
 #마켓컬리
 
 - 홈화면
 - 커스템텝바 바 
+
+---
+
+2021.06.22
+
+#Notion
+
+- Mastering swift
