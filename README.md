@@ -2350,3 +2350,11 @@ Cell Prefetching & Data Prefetching
 #marketKulry
 
 - collectionView + tableView + collectionView
+
+---
+
+2021.06.27
+
+#marketKulry
+
+- 특가/혜택 tableView
