@@ -2358,3 +2358,15 @@ Cell Prefetching & Data Prefetching
 #marketKulry
 
 - 특가/혜택 tableView
+
+---
+
+2021.06.28
+
+#드림플러스 스터디
+
+- collectionView 위치 Q&A
+
+#marketKulry
+
+- collectionView + tableView + tableView
