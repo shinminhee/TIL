@@ -2370,3 +2370,12 @@ Cell Prefetching & Data Prefetching
 #marketKulry
 
 - collectionView + tableView + tableView
+
+---
+
+2021.06.29
+
+#marketKulry
+
+- collectionView 위치
+- tapBar extension
