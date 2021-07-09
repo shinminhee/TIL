@@ -2461,3 +2461,11 @@ Cell Prefetching & Data Prefetching
 #미니게임한판
 
 - 코드정리
+
+---
+
+2021.07.09
+
+#야곰의 스위프트 프로그래밍
+
+- closure
