@@ -2469,3 +2469,11 @@ Cell Prefetching & Data Prefetching
 #야곰의 스위프트 프로그래밍
 
 - closure
+
+---
+
+2021.07.10
+
+#야곰의 스위프트 프로그래밍
+
+- Enum
