@@ -2477,3 +2477,12 @@ Cell Prefetching & Data Prefetching
 #야곰의 스위프트 프로그래밍
 
 - Enum
+
+---
+
+2021.07.11
+
+#야곰의 스위프트 프로그래밍
+
+- 고차함수
+- Delegate
