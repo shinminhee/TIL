@@ -2486,3 +2486,12 @@ Cell Prefetching & Data Prefetching
 
 - 고차함수
 - Delegate
+
+---
+
+2021.07.11
+
+#드림플러스 스터디
+
+- property
+- map, filter, reduce
