@@ -2489,9 +2489,17 @@ Cell Prefetching & Data Prefetching
 
 ---
 
-2021.07.11
+2021.07.12
 
 #드림플러스 스터디
 
 - property
 - map, filter, reduce
+
+---
+
+2021.07.12
+
+#marketKulry
+
+- collectionView header
