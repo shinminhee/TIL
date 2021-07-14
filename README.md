@@ -2498,8 +2498,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
-2021.07.12
+2021.07.13
 
 #marketKulry
 
 - collectionView header
+
+---
+
+2021.07.13
+
+#야곰의 스위프트 프로그래밍
+
+- 구조체와 클래스
