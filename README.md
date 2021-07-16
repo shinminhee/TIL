@@ -2520,3 +2520,13 @@ Cell Prefetching & Data Prefetching
 
 - GCD
 - ARC
+
+---
+
+2021.07.16
+
+#면접준비
+
+- static
+- struct
+- class
