@@ -2544,3 +2544,12 @@ Cell Prefetching & Data Prefetching
 #marketKulry
 
 - tableView header
+
+---
+
+2021.07.19
+
+#드림플러스 스터디
+
+- Enum
+- 동기 / 비동기
