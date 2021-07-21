@@ -2556,8 +2556,17 @@ Cell Prefetching & Data Prefetching
 
 ---
 
-2021.07.19
+2021.07.20
 
 #드림플러스 스터디
 
 - 1급객체 - 야곰의 swift programming
+
+---
+
+2021.07.21
+
+#드림플러스 스터디
+
+- delegate
+- DataSource
