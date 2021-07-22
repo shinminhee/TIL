@@ -2570,3 +2570,11 @@ Cell Prefetching & Data Prefetching
 
 - delegate
 - DataSource
+
+---
+
+2021.07.21
+
+#Bosegown
+
+- 구글, 카카오우편주소
