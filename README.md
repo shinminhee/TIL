@@ -2573,8 +2573,16 @@ Cell Prefetching & Data Prefetching
 
 ---
 
-2021.07.21
+2021.07.22
 
 #Bosegown
 
 - 구글, 카카오우편주소
+
+---
+
+2021.07.23
+
+#야곰의 swift programming
+
+- 패턴
