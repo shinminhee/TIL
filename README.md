@@ -2602,3 +2602,11 @@ Cell Prefetching & Data Prefetching
 #야곰의 swift programming
 
 - 고차함수
+
+---
+
+2021.07.26
+
+#야곰의 swift programming
+
+- 모나드
