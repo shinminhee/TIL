@@ -2610,3 +2610,11 @@ Cell Prefetching & Data Prefetching
 #야곰의 swift programming
 
 - 모나드
+
+---
+
+2021.07.27
+
+#야곰의 swift programming
+
+- 타입캐스팅
