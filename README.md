@@ -2643,4 +2643,8 @@ Cell Prefetching & Data Prefetching
 
 - WKWebView
 
-  
+---
+
+2021.08.04
+
+- json
