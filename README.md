@@ -2648,3 +2648,9 @@ Cell Prefetching & Data Prefetching
 2021.08.04
 
 - json
+
+---
+
+2021.08.05
+
+- 버전정보
