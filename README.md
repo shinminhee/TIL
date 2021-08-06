@@ -2654,3 +2654,9 @@ Cell Prefetching & Data Prefetching
 2021.08.05
 
 - 버전정보
+
+----
+
+2021.08.06
+
+- 전화번호 인증
