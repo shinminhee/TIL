@@ -2672,3 +2672,9 @@ Cell Prefetching & Data Prefetching
 2021.08.08
 
 - notification
+
+---
+
+2021.08.09
+
+- 함수
