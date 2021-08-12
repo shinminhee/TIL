@@ -2690,3 +2690,9 @@ Cell Prefetching & Data Prefetching
 2021.08.11
 
 - FSpager 라이브러리
+
+---
+
+2021.08.12
+
+- 회원가입 이메일 인증
